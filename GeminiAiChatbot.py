@@ -7,7 +7,7 @@ from typing import Optional
 # Gemini API Configuration
 # ==============================
 
-API_KEY = "AIzaSyDMv2AoHLuFkXN4FwvKTgffG3YxCozABq8"
+API_KEY = "Your API key"
 
 API_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/"
